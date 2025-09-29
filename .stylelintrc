@@ -1,0 +1,6 @@
+{
+  "extends": "stylelint-config-vaadin",
+  "rules": {
+    "no-eol-whitespace": null
+  }
+}
