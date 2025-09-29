@@ -1,6 +1,6 @@
 # Grupo de Desenvolvimento
 
-## 🏷️ Nickname do Grupo: [Nome do Grupo]
+## 🏷️ Nickname do Grupo: Edu & Companhia
 
 ### 👥 Membros do Grupo
 
