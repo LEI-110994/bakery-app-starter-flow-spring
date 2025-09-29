@@ -1,3 +1,17 @@
+# Grupo de Desenvolvimento
+
+## 🏷️ Nickname do Grupo: [Nome do Grupo]
+
+### 👥 Membros do Grupo
+
+| Número |       Nome       | Curso |
+|--------|------------------|-------|
+| 110994 | Duarte Clemente  |  LEI  |
+| 111286 | Eduardo Fernandes|  LEI  |
+| 111491 | Tomás Leal       |  LEI  |
+
+---
+
 # ⚠️ This starter is not recommended ⚠️
 
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
