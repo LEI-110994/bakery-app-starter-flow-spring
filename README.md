@@ -1,6 +1,6 @@
 # Grupo de Desenvolvimento
 
-## 🏷️ Nickname do Grupo: Edu & Companhia
+## 🏷️ Nickname do Grupo: Informatica & Co.
 
 ### 👥 Membros do Grupo
 
