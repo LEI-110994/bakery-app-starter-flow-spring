@@ -4,11 +4,12 @@
 
 ### 👥 Membros do Grupo
 
-| Número |       Nome       | Curso |
-|--------|------------------|-------|
-| 110994 | Duarte Clemente  |  LEI  |
-| 111286 | Eduardo Fernandes|  LEI  |
-| 111491 | Tomás Leal       |  LEI  |
+| Número | Nome              | Curso |
+|--------|-------------------|-------|
+| 110994 | Duarte Clemente   |  LEI  |
+| 111286 | Eduardo Fernandes |  LEI  |
+| 111491 | Tomás Leal        |  LEI  |
+| 123275 | Gonçalo Silva     |  LEI  |
 
 ---
 
